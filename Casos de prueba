@@ -1,0 +1,16 @@
+<h2>Casos de Prueba</h2>
+
+Casos de prueba para la web https://www.directvgo.com/, se ejecutará el Login y el Home de la página.
+
+| ID    | Título                                    | Precondiciones               | Pasos                                                                               | Resultado Esperado                     |
+|-------|-------------------------------------------|------------------------------|-------------------------------------------------------------------------------------|----------------------------------------|
+| CP001 | Verificar login con credenciales válidas  | Usuario registrado existe    | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass. 4. Click 'Login'          | Usuario logueado exitosamente          |
+| CP002 | Verificar login con credenciales inválidas| Usuario registrado existe    | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass inválido. 4. Click 'Login' | Mensaje de error de credenciales       |
+| CP003 | Verificar login con credenciales inválidas| N/A                          | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass inválido. 4. Click 'Login' | Mensaje de error de credenciales       |
+| CP004 | Verificar login con credenciales inválidas| N/A                          | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass inválido. 4. Click 'Login' | Mensaje de error de credenciales       |
+| CP005 | Verificar login con credenciales inválidas| N/A                          | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass inválido. 4. Click 'Login' | Mensaje de error de credenciales       |
+| CP006 | Verificar login con credenciales inválidas| N/A                          | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass inválido. 4. Click 'Login' | Mensaje de error de credenciales       |
+| CP007 | Verificar login con credenciales inválidas| N/A                          | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass inválido. 4. Click 'Login' | Mensaje de error de credenciales       |
+| CP008 | Verificar login con credenciales inválidas| N/A                          | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass inválido. 4. Click 'Login' | Mensaje de error de credenciales       |
+| CP009 | Verificar login con credenciales inválidas| N/A                          | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass inválido. 4. Click 'Login' | Mensaje de error de credenciales       |
+| CP010 | Verificar login con credenciales inválidas| N/A                          | 1. Abrir web. 2. Click en 'Login'. 3. Ingresar user/pass inválido. 4. Click 'Login' | Mensaje de error de credenciales       |

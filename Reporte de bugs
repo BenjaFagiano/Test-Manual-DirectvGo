@@ -1,1 +1,7 @@
+🐞 Reporte de Bugs
 
+| ID    | Título                                    | Precondiciones               | Pasos                                                                               | Resultado Esperado                     | Resultado real                     |
+|-------|-------------------------------------------|------------------------------|-------------------------------------------------------------------------------------|----------------------------------------|------------------------------------|
+| CP001 | Error al seleccionar subtítulos al        | Estar logueado en la web     | 1. Ingresar a la web. 2. Reproducir un contenido. 3. Click en subtitulos.           | Permite seleccionar un subtítulo       | No permite seleccionar subtítulos  |
+|       | transmitir pantalla                       |                              | 4. Seleccionar Español 5. Transmitir pantalla en Chromecast 5. Click en subtitulos. | mientras se transmite un contenido     | al trasnmitir a un dispositivo     |
+|-------|-------------------------------------------|------------------------------|-------------------------------------------------------------------------------------|----------------------------------------|------------------------------------|    
